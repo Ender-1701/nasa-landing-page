@@ -87,3 +87,88 @@ h1{
     border-radius: 10px;
     margin-top: 10px;
   }
+  #apollo-header{
+    font-size: 80px;
+    color: #D92906;
+    margin-bottom: 25px;
+    margin-left: 10px;
+  }
+
+  .apollo-sub-header{
+    margin-left: 35px;
+    color: lightslategray;
+    margin-bottom: 10px;
+  }
+
+  .apollo-mission-brief {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+ 
+  .apollo-stats-top-1 {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    margin-bottom: 10px;
+  }
+
+  .mission-type, .astronauts{
+    display: flex;
+    width: 25%;
+    justify-content: left;
+    align-items: center;
+    color: lightslategray;
+    margin-left: 10px;
+  }
+
+  .apollo-stats-bottom-1 {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: left;
+  }
+
+  .lunar-landing, .names {
+    display: flex;
+    width: 25%;
+    justify-content: left;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+   .apollo-stats-top-2 {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    margin-bottom: 10px;
+   }
+
+   .launch, .landing {
+    display: flex;
+    width: 25%;
+    justify-content: left;
+    align-items: center;
+    color: lightslategray;
+    margin-left: 10px;
+   }
+
+   .apollo-stats-bottom-2 {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: left;
+   }
+
+   .date-1, .date-2 {
+    display: flex;
+    width: 25%;
+    justify-content: left;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+   }
+ 
